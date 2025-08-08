@@ -5,7 +5,8 @@
 - 你好！我是wjjsn，我目前正在学习C, C++以及嵌入式软件。期待交流学习。
 ---
 ### 用一张图片介绍我自己
-<img width="221" height="340" alt="image" src="https://github.com/user-attachments/assets/aaee2ef5-0cbb-40cb-b9c2-a4558dee817e" />
+![img](https://github.com/user-attachments/assets/ff32c49e-6324-479c-b0e0-3c9f97c8221d)
+
 
 ---
 
