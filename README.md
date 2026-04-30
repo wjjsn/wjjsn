@@ -3,6 +3,7 @@
 ### 关于我
 
 - 你好！我是wjjsn，我目前正在学习C, C++以及嵌入式软件。期待交流学习。
+- 我的博客：https://wjjsn.github.io/
 ---
 ### 用一张图片介绍我自己
 ![img](https://github.com/user-attachments/assets/ff32c49e-6324-479c-b0e0-3c9f97c8221d)
