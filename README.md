@@ -24,8 +24,8 @@
   <tbody>
     <tr valign="top">
       <td align="center" width="20%">
-        <strong>C</strong><br><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" height="64px" alt="C">
+        <strong>C/C++</strong><br><br>
+        <img src="https://cdn.svglogos.dev/logos/c-plusplus.svg" height="64px" alt="C/C++">
       <td align="center" width="20%">
         <strong>Git</strong><br><br>
         <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="64px" alt="Git">
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![0xBB8's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjjsn&show_icons=true&theme=radical)
+![wjjsn's GitHub stats](https://github-stats-extended.vercel.app/api?username=wjjsn&show_icons=true&theme=radical)
 
 </div>
 
