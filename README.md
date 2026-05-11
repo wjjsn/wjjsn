@@ -1,9 +1,16 @@
 ## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 我是 wjjsn
 
-### 关于我
-
-- 你好！我是wjjsn，我目前正在学习C, C++以及嵌入式软件。期待交流学习。
-- 我的博客：https://wjjsn.github.io/
+### 我现在在做
+- FOC的入门学习
+- Capsense的开发与调优
+- [统一接口的裸机HAL](https://github.com/wjjsn/HAL)
+- [基于HAL写的驱动](https://github.com/wjjsn/Hardware)
+- [搬运好用的嵌入式库](https://github.com/wjjsn/EmLib)
+- [基于模版的类std::print输出](https://github.com/wjjsn/em_fmt)（性能好！）
+- 构建[lieeesson](https://github.com/lieeesson/)
+- [boss直聘爬虫为向导的职业规划](https://github.com/wjjsn/boss_crawler_analyzer)
+- [搭建简单的图像分类模型](https://github.com/wjjsn/26-smartcar-sort)
+- [我的博客](https://wjjsn.github.io/)
 ---
 ### 用一张图片介绍我自己
 ![img](https://github.com/user-attachments/assets/ff32c49e-6324-479c-b0e0-3c9f97c8221d)
@@ -26,19 +33,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### 联系我✨  
-邮箱：2858482031@qq.com
-<p align="center">
-  <a href="https://github.com/wjjsn">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" alt="GitHub">  
-  </a>
-  <a href="https://space.bilibili.com/484437352">
-    <img src="https://img.shields.io/badge/Bilibili-%231E90FF.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili">  
-  </a>
-</p>
 
 ---
 
