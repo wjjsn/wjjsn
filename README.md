@@ -2,7 +2,7 @@
 
 ### 我现在在做
 - FOC的入门学习
-- Capsense的开发与调优
+- [Capsense的开发与调优](https://github.com/wjjsn/CAPSENSE_CSD_Button_Tuning_1)
 - [统一接口的裸机HAL](https://github.com/wjjsn/HAL)
 - [基于HAL写的驱动](https://github.com/wjjsn/Hardware)
 - [搬运好用的嵌入式库](https://github.com/wjjsn/EmLib)
@@ -10,6 +10,7 @@
 - 构建[lieeesson](https://github.com/lieeesson/)
 - [boss直聘爬虫为向导的职业规划](https://github.com/wjjsn/boss_crawler_analyzer)
 - [搭建简单的图像分类模型](https://github.com/wjjsn/26-smartcar-sort)
+- [下载哔哩哔哩收藏夹为音乐](https://github.com/wjjsn/bilibili_download_music)作者、标题、封面，均正确保存
 - [我的博客](https://wjjsn.github.io/)
 ---
 ### 用一张图片介绍我自己
